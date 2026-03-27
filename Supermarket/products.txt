@@ -1,0 +1,16 @@
+101,Rice,50
+102,Sugar,45
+103,Milk,30
+104,Bread,40
+105,Eggs,6
+106,Oil,120
+107,Soap,35
+108,Shampoo,95
+109,Biscuit,20
+110,Tea Powder,150
+111,Coffee,180
+112,Salt,18
+113,Butter,55
+114,Cheese,90
+115,Maggi,15
+

@@ -1,0 +1,5 @@
+1,admin@gmail.com,admin123,ADMIN
+2,john@gmail.com,1234,CUSTOMER
+3,raj@gmail.com,raj123,CUSTOMER
+4,meena@gmail.com,meena123,CUSTOMER
+5,arun@gmail.com,arun123,CUSTOMER

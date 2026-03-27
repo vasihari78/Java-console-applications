@@ -1,0 +1,5 @@
+B101,Java Programming,5,500
+B102,Data Structures,3,600
+B103,Operating Systems,2,700
+B104,DBMS,1,650
+B105,Python Basics,4,400

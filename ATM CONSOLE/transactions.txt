@@ -1,0 +1,2 @@
+Account:1 | Type:Withdraw | Amount:1000 | Balance:99000
+Account:1 | Type:Deposit | Amount:40000 | Balance:139000

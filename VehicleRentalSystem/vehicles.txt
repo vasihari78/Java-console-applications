@@ -1,0 +1,5 @@
+V101,Swift,CAR,4,2000,true
+V102,Innova,CAR,3,3000,true
+V201,Activa,BIKE,10,500,true
+V202,R15,BIKE,4,800,true
+V203,Pulsar,BIKE,6,700,false2

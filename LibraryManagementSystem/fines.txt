@@ -1,0 +1,3 @@
+
+user1@gmail.com,B101,20
+user2@gmail.com,B102,0

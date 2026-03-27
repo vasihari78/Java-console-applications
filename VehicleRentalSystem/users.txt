@@ -1,0 +1,3 @@
+admin@gmail.com,1234,ADMIN,30000
+user1@gmail.com,1111,USER,30000
+user2@gmail.com,2222,USER,30000
